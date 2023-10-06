@@ -1,5 +1,12 @@
 @charset "UTF-8";
 
+/* Typical Devices Breakpoits
+Celular: Até 600px
+Tablet: 600px até 768px
+Desktop: 768px 992px
+TV: 992px até 1200px
+*/
+
 header{
     text-align: center;
     
