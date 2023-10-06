@@ -62,3 +62,6 @@ button:hover{
     background-color: #ffffff;
     cursor: pointer;
 }
+p#point{
+    cursor: pointer;
+}
